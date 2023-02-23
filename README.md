@@ -1,6 +1,6 @@
 # Trojan.Haxe.Offiz
 
-* A you are an idiot recreation in haxe. (I'm in love with this virus lmao.)
+* A work in progress You are an idiot recreation in haxe. (I'm in love with this virus lmao.)
 
 # Notes and Concerns
 
